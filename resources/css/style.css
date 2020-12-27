@@ -10,6 +10,17 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 21px;
+    color: gray;
+}
+
+h3 {
+    text-align: right;
+    color: gray;
+    font-weight: normal;
+}
+
 a {
     color: aquamarine;
     font-size: 16px;
@@ -18,4 +29,9 @@ a {
 video {
     position: relative;
     top: 20px;
+}
+
+.cellLogo{
+    padding-top: 20px;
+
 }
